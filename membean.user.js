@@ -2,7 +2,7 @@
 // @name         Membean Cheat (Completely Undetectable - read description)
 // @version      1.0
 // @description  This is the only undetectable membean userscript that I have seen.  How the other "cheats" work is they click a hidden button that the membean devs purposefully put there to catch cheaters!  This script is undetectable because it works by clearing the cookie that remembers when a question is answered incorrectly.  What this script essentially does is deletes a cookie, which is something that any user can do manually, so it would not be possible for membean to detect this in it's current state.
-// @author       You
+// @author       https://github.com/dayoshiguy
 // @match        *://*.membean.com/dashboard/training-sessions/*
 // @match        *://*.membean.com/dashboard/training-history*
 // @match        *://*.membean.com/training_sessions/*
